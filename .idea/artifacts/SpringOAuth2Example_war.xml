@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringOAuth2Example:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringOAuth2Example.war">
+      <element id="artifact" artifact-name="SpringOAuth2Example:war exploded" />
+    </root>
+  </artifact>
+</component>
