@@ -1,1 +1,13 @@
+com\mavrk\springmvc\security\OAuth2SecurityConfiguration.class
+com\mavrk\springmvc\service\UserService.class
+com\mavrk\springmvc\model\User.class
+com\mavrk\springmvc\security\SecurotyWebApplicationInitializer.class
+com\mavrk\springmvc\configuration\HelloWorldConfiguration.class
+com\mavrk\springmvc\service\impl\UserServiceImpl.class
 com\mavrk\springmvc\configuration\CORSFilter.class
+com\mavrk\springmvc\security\AuthorizationServerConfiguration.class
+com\mavrk\springmvc\security\ResourceServerServerConfiguration.class
+com\mavrk\springmvc\security\MethodSecurityConfig.class
+com\mavrk\springmvc\controller\HelloWorldRestController.class
+com\mavrk\springmvc\configuration\HelloWorldInitializer.class
+com\mavrk\springmvc\service\AuthTokenInfo.class
